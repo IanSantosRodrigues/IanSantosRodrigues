@@ -1,8 +1,7 @@
-## Bem-vindo(a) ao perfil do Ian Santos Rodrigues 👨🏻‍💻
+# Bem-vindo(a) ao perfil do Ian Santos Rodrigues 👨🏻‍💻
 
-### Graduando em engenaria de controle e automaçao na UFU
-### Assessor de parcerias da conselt 
-### Futuro Dev
+### Graduando em engenharia de controle e automaçao na UFU
+### Assessor de parcerias da CONSELT
 
  <div>
    <a href="https://github.com/IanSantosRodrigues">
