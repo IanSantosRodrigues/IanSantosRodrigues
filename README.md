@@ -1,4 +1,4 @@
-# Bem-vindo(a) ao perfil do Ian Santos Rodrigues 👨🏻‍💻
+## Bem-vindo(a) ao perfil do Ian Santos Rodrigues 👨🏻‍💻
 
 ### Graduando em engenharia de controle e automaçâo na UFU
 ### Assessor de parcerias da CONSELT
@@ -19,7 +19,7 @@
  
 <br>
  
-### Minhas redes sociais !!!
+## Minhas redes sociais !!!
  
 <div> 
   <a href="https://www.instagram.com/ian_santos20/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
